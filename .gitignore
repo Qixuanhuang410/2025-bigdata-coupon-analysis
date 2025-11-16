@@ -1,0 +1,7 @@
+data/*.csv
+*.class
+*.jar
+.DS_Store
+*.log
+tmp/
+output/
